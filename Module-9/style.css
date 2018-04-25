@@ -1,0 +1,55 @@
+
+h1 {
+    text-align: "Center";
+}
+
+#para1 { 
+    color:red;
+}
+
+#para2 {
+color:blue;
+}
+
+#para3 {
+    color:green;
+}
+
+div.a {
+    font-size: 300%;
+}
+
+div.b {
+    font-size: 60%;
+}
+
+div.c {
+    text-align: center;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.serif {
+    font-family: cursive
+}
+
+div.d {
+    font-weight: bold;
+    color:orange;
+    font-size: 250%;
+}
+
+p.styledFont {
+    color: plum;
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif
+}
+
+#styledImage {
+    border: 7px solid red;
+}
+
+    
+
+    

@@ -1,0 +1,15 @@
+Assignment #7-  The Boo Boos in Boo's Website
+
+- Wrapped title in H1
+- Changed H4 with P
+- Wrapped text in P
+- Fixed IMG tag (missing < and />)
+- Changed button positions
+- Wrapped list elements in LI
+- Fixed Javascript file name (changed errors.js to logic.js)
+- Fixed click handler event name (wrapped click in "" in line 20 and 25 of logic.js)
+- Fixed click handler for pink button (wrapped pink in quotes in line 9)
+- Separated list elements with quotes 
+
+
+
